@@ -9,4 +9,4 @@ Unique / Working Modules
 +30 EPIC Features To Enjoy
 Joiner, Spammers, Checkers, Humanizers and more!
 Frequently Updates
-Free OMG
+- Free OMG
